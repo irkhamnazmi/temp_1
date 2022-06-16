@@ -600,7 +600,8 @@ figure {
     margin-bottom: 10px;
     line-height: 1.5;
     font-weight: normal;
-    color: #0298d4;
+    /* color: #0298d4; */
+    color: #7e4f55;
     font-family: "Satisfy", Arial, serif;
 }
 
