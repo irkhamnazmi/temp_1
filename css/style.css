@@ -601,8 +601,7 @@ figure {
     line-height: 1.5;
     font-weight: normal;
     /* color: #0298d4; */
-    color: #7e4f55;
-    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;
+    color: white;
     font-family: "Satisfy", Arial, serif;
 }
 
