@@ -1,4 +1,4 @@
-<div id="top"></div>
+<!-- <div id="top"></div> -->
 <!--
 *** Thanks for checking out our wedding invitation template.
 *** Don't forget to give the project a star!
@@ -7,7 +7,7 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
+<!-- <br />
 <div align="center">
   <a href="https://ngodingsolusi.github.io/the-wedding-of-rehan-maulidan/">
     <img src="images/readme/half%20circle.png" alt="Logo" width="120" height="120">
@@ -25,16 +25,16 @@
     ·
     <a href="https://github.com/maulidandev">Maulidan Nashuha</a>
   </p>
-</div>
+</div> -->
 
 <!-- The wedding -->
-## Maulidan Nashuha <img src="images/readme/man.png" width="30px">
+<!-- ## Maulidan Nashuha <img src="images/readme/man.png" width="30px"> -->
 
 
 
-Reach me around the web :
+<!-- Reach me around the web : -->
 
-<a href="https://www.linkedin.com/in/maulidandev/" target="_blank">
+<!-- <a href="https://www.linkedin.com/in/maulidandev/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="https://www.github.com/in/maulidandev/" target="_blank">
@@ -42,7 +42,7 @@ Reach me around the web :
 </a>
 <a href="https://www.instagram.com/maulidannashuha/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-</a>
+</a> -->
 <!--<a href="https://twitter.com/maulidandev" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
 </a>
@@ -54,7 +54,7 @@ Reach me around the web :
 </a>-->
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!-- <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 ## Rayhan Yulanda <img src="images/readme/woman.png" width="30px">
@@ -76,9 +76,9 @@ Reach me around the web :
 <img alt="Rehan's Medium" width="22px" src="https://raw.githubusercontent.com/RayhanYulanda/rayhanyulanda/master/assets/icons/medium.png" />
 </a>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
-### Our big thanks to :
+<!-- ### Our big thanks to :
 - [Flaticon](https://flaticon.com) - for the assets
 - [Freepik](https://freepik.com) - for the images
 - [Base Template](https://technext.github.io/wedding/)
@@ -87,4 +87,4 @@ Reach me around the web :
 [![GitHub stars](https://img.shields.io/github/stars/ngodingsolusi/nikah-rehan-maulidan.svg?style=social&label=Star)](https://github.com/maulidandev/nikah-rehan-maulidan)
 [![GitHub forks](https://img.shields.io/github/forks/ngodingsolusi/nikah-rehan-maulidan.svg?style=social&label=Fork)](https://github.com/maulidandev/nikah-rehan-maulidan)
 [![GitHub watchers](https://img.shields.io/github/watchers/ngodingsolusi/nikah-rehan-maulidan.svg?style=social&label=Watch)](https://github.com/maulidandev/nikah-rehan-maulidan)
-[![GitHub followers](https://img.shields.io/github/followers/maulidandev.svg?style=social&label=Follow)](https://github.com/maulidandev/nikah-rehan-maulidan)
+[![GitHub followers](https://img.shields.io/github/followers/maulidandev.svg?style=social&label=Follow)](https://github.com/maulidandev/nikah-rehan-maulidan) -->
