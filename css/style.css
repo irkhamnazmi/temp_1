@@ -535,7 +535,7 @@ figure {
 }
 
 #fh5co-header .couple-main {
-    width: 400px;
+    width: 20%;
 }
 
 @media screen and (max-width: 480px) {
@@ -592,7 +592,7 @@ figure {
 }
 
 #overlay .content .couple-main {
-    width: 50%;
+    width: 20%;
 }
 
 #overlay .content h1 {
@@ -1333,7 +1333,8 @@ form label {
     font-size: 20px;
     background: #f3f3f3;
     padding: 20px;
-    color: #113468;
+    /* color: #113468; */
+    color: #7e4f55;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -1359,7 +1360,8 @@ form label {
 
 .couple-half h3 {
     font-family: "Sacramento", Arial, serif;
-    color: #113468;
+    /* color: #113468; */
+    color: #7e4f55;
     font-size: 30px;
 }
 
