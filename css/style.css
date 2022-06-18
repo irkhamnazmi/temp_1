@@ -535,12 +535,12 @@ figure {
 }
 
 #fh5co-header .couple-main {
-    width: 20%;
+    width: 30%;
 }
 
 @media screen and (max-width: 480px) {
     #fh5co-header .couple-main {
-        width: 250px;
+        width: 10%;
     }
 }
 
@@ -607,7 +607,7 @@ figure {
 
 @media screen and (max-width: 480px) {
     #overlay .content h1 {
-        font-size: 38px;
+        font-size: 10%;
     }
 }
 
