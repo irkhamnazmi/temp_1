@@ -523,7 +523,7 @@ figure {
 }
 
 #fh5co-header {
-    padding-top: 50px;
+    padding-top: 30px;
     padding-bottom: 100px;
     background-image: url("../images/background/repeat-background/nice_snow.png");
     background-repeat: repeat;
@@ -535,12 +535,15 @@ figure {
 }
 
 #fh5co-header .couple-main {
-    width: 30%;
+    width: 50%;
 }
 
 @media screen and (max-width: 480px) {
     #fh5co-header .couple-main {
         width: 25%;
+    }
+    #fh5co-header {
+        padding-top: 20px;
     }
 }
 
@@ -1809,6 +1812,16 @@ a {
     display: block;
 }
 
+#fh5co-footer .couple-main {
+    width: 25%;
+}
+
+@media screen and (max-width: 480px) {
+    #fh5co-footer .couple-main {
+        width: 15%;
+    }
+}
+
 .owl-carousel .owl-controls .owl-dot span {
     background: #e6e6e6;
 }
@@ -2388,6 +2401,7 @@ a {
     align-items: center;
     justify-content: center;
     flex-direction: row-reverse;
+    margin: 50px;
 }
 
 .option-btn {
@@ -2401,6 +2415,12 @@ a {
     position: relative;
     cursor: pointer;
     z-index: 9;
+}
+
+@media screen and (max-width: 480px) {
+    .control-center {
+        display: none;
+    }
 }
 
 .option-btn:after {
