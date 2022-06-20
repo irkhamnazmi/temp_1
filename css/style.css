@@ -523,7 +523,7 @@ figure {
 }
 
 #fh5co-header {
-    padding-top: 30px;
+    padding-top: 100px;
     padding-bottom: 100px;
     background-image: url("../images/background/repeat-background/nice_snow.png");
     background-repeat: repeat;
@@ -535,12 +535,12 @@ figure {
 }
 
 #fh5co-header .couple-main {
-    width: 50%;
+    width: 55%;
 }
 
 @media screen and (max-width: 480px) {
     #fh5co-header .couple-main {
-        width: 25%;
+        width: 45%;
     }
     #fh5co-header {
         padding-top: 20px;
@@ -595,7 +595,7 @@ figure {
 }
 
 #overlay .content .couple-main {
-    width: 30%;
+    width: 80%;
 }
 
 #overlay .content h1 {
@@ -1791,8 +1791,8 @@ form label {
 
 #fh5co-footer h6,
 a {
-    margin-bottom: 20%;
-    line-height: 1.5;
+    margin-bottom: 5%;
+    line-height: 0.5;
     font-weight: normal;
     /* color: #113468; */
     color: #7e4f55;
@@ -1813,12 +1813,21 @@ a {
 }
 
 #fh5co-footer .couple-main {
-    width: 25%;
+    width: 40%;
 }
 
 @media screen and (max-width: 480px) {
     #fh5co-footer .couple-main {
-        width: 15%;
+        width: 30%;
+    }
+    #fh5co-footer h6,
+    a {
+        margin-bottom: 10%;
+        line-height: 2.5;
+        font-weight: normal;
+        /* color: #113468; */
+        color: #7e4f55;
+        font-family: "Satisfy", Arial, serif;
     }
 }
 
@@ -2527,7 +2536,7 @@ a {
     .left-sidebar li {
         background-repeat: no-repeat;
         background-position: center center;
-        background-size: 20px;
+        background-size: 24px;
         height: 100%;
         width: 24px;
         margin-right: 20px;
